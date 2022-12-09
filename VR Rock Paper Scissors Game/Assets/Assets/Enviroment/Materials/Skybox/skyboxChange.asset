@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1f6a4acf23aebcb40a5336e7921f7a1a, type: 3}
+  m_Name: skyboxChange
+  m_EditorClassIdentifier: 
+  materialSkyBoxBlink: {fileID: 2100000, guid: 5b8add3bcce6b9142b4ddf1fc387cd08, type: 2}
+  materialSkyBoxOpenEyes: {fileID: 2100000, guid: e5669943aa92c6642bcf3ff6a16afe5d,
+    type: 2}
